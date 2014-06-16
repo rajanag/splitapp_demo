@@ -1,0 +1,28 @@
+{
+    "Menu": [
+			    {
+			        "title": "Register a State",
+			        "icon": "sap-icon://add",
+			        "targetPage": "State",
+			        "description": "Click to add a new state"
+			    }, 
+			    {
+			        "title": "Register a District",
+			        "icon": "sap-icon://add",
+			        "targetPage": "CoffeeList",
+			        "description": "Click to add a new district"
+			    },			    
+			    {
+			        "title": "Register a Taluk",
+			        "icon": "sap-icon://add",
+			        "targetPage": "Info",
+			        "description": "Click to add a new taluk"
+			    },
+			    {
+			        "title": "Register a School",
+			        "icon": "sap-icon://add",
+			        "targetPage": "Info",
+			        "description": "Click to add a new school"
+			    }
+    		]
+}
