@@ -27,7 +27,7 @@ sap.ui.jsview("view.Menu", {
         return new sap.m.Page({
             customHeader: new sap.m.Bar({
                 contentLeft: [new sap.m.Image("chintana", {
-                    src: 'sap-icon://home',
+                    src: 'myImg.jpg',
                     width: "35px",
                     height: "35px"
                 })],
